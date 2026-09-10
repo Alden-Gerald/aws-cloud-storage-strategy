@@ -46,4 +46,3 @@ Cloud architecture is a series of trade-offs. A simpler management model does no
 ## Project status
 
 Individual academic case study. No production infrastructure or customer data is included.
-
